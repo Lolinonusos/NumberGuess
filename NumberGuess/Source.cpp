@@ -3,6 +3,8 @@
 #include <cstdlib>
 #include <conio.h>
 
+// This is Linus' entry for week 3
+
 int theNumber{};	 // This is the number you are trying to find
 int guess{};		 // This is your guess
 int choosediff{};	 // This is used to decide your difficulty
